@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input name="UAXSChatChannel" loc="Switch Chat Channel" />
+			<input name="UAXSChatSizeDown" loc="Decrease Font Size" />
+			<input name="UAXSChatSizeUp" loc="Increase Font Size" />
+		</actions>
+	</inputs>
+	<preset>
+		<input name="UAXSChatChannel">
+			<btn name="kZ" />
+		</input>
+		<input name="UAXSChatSizeDown">
+			<btn name="kLBracket" />
+		</input>
+		<input name="UAXSChatSizeUp">
+			<btn name="kRBracket" />
+		</input>
+	</preset>
+</modded_inputs>
